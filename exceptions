@@ -11,6 +11,29 @@ degrengolada    | deg-re-ngo-la-da      | de-gren-go-la-da
 zaśniedziałe    | zaś-nie-dzia-łe       | za-śnie-dzia-łe
 ósmy            | ós-my                 | ó-smy
 
+
 reguly do dodania
 + przedrostki pod/przed nierozdzielne: jest: po-dzwrot-ni-ko-wy powinno być: pod-zwrot-ni-ko-wy
 ? sufixy cja/sja/stwo/ctwo  powinny być niepodzielne?
+
+
+znalezione błędy (poza wyjątkami):
+jest                | powinno być                       | ?
+--------------------+-----------------------------------+-------------
+ne-uro-lo-gia       | neu-ro-lo-gia                     | obcy +eu
+pod-ra-pać          | po-dra-pać                        | po... (koliduje z pod...)
+pow-tó-rzyć         | po-wtó-rzyć                       |
+po-da-gra           | pod-a-gra                         | pod...
+po-do-go-nie        | pod-o-go-nie (pod-bal-ko-nie OK)  | pod...
+po-dar-ka-dzie      | pod-ar-ka-dzie                    | pod...
+i-niek-cja          | in-ie-kcja (in-ject)              | obcy
+i-nic-jac-ja        | i-ni-cja-cja                      |
+in-sy-nu-ac-ja      | in-syn-ua-cja                     | obce
+aus-te-rlitz        | aus-ter-litz                      | obce
+wer-ty-ku-lac-ja    | wer-ty-ku-la-cja                  | ...cja
+
+opcje:
+słowo           | jest                  | może być
+------------------------------------------------------------
+konstrukcja     | kon-stuk-cja          | kon-stru-kcja
+austerlitz      | aus-te-rlitz          | aus-ter-litz      | obcy (+grupy spolgl)
