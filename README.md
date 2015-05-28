@@ -11,3 +11,11 @@ te lepsze sa platne ;)
 nie znalazlem zadnego powaznego regexa ktory dzielilby na sylaby w jakis trzymajacy sie kupy sposob
 a w szczegolnosci nie udalo mi sie znalezc zadnego ktory potrafilby dzielic na zgloski
 (niby nic wielkiego ale jednak)
+
+# TODO:
+dodac grupy spolgloskowe i dwuznaki
+
+# NEWS:
+2015-05-28
+- 'd' z grupy spolgloskowej >> ! przedrostki pod... pod-cien
++ 'w' do grupy spolgloskowej >> ! przeciw-waga
