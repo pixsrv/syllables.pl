@@ -1,0 +1,16 @@
+słowo           | jest                  | powinno być
+------------------------------------------------------------
+tysiączłotowa   | ty-sią-czło-to-wa     | ty-siąc-zło-to-wa
+marznąć         | ma-rznąć              | mar-znąć
+Odessa          | O-des-sa              | O-de-ssa
+kontynuacja     | kon-ty-nu-ac-ja       | kon-tyn-ua-cja
+nauka           | nau-ka                | na-u-ka
+odrzwia         | od-rzwia              | o-drzwia
+imponderabilia  | im-po-nde-ra-bi-lia   | im-pon-de-ra-bi-lia
+degrengolada    | deg-re-ngo-la-da      | de-gren-go-la-da
+zaśniedziałe    | zaś-nie-dzia-łe       | za-śnie-dzia-łe
+ósmy            | ós-my                 | ó-smy
+
+reguly do dodania
++ przedrostki pod/przed nierozdzielne: jest: po-dzwrot-ni-ko-wy powinno być: pod-zwrot-ni-ko-wy
+? sufixy cja/sja/stwo/ctwo  powinny być niepodzielne?
