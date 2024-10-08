@@ -1,1 +1,1 @@
-([wz]\s+)*(((\b|[bknw])?[aeioy][lmnr](?=[bcćdfghjklłmńnpqrsśtvwzżź]+))|(([bcćdfghjklłmńnpqrsśtvwzżź])*((au|ao|ie|ię|ia|ią|ii|iu|io|ió|\bau)|([aąeęioóuy]))((([cćdfghjklłmńnpqrsśtvwzżź])(?=[cjkłmnrst]))?)))(([bcćdfghjklłmńnpqrsśtvwzżź]{0,4})(?=([\s.\-?_,:;"!]+|$)))?
+([wz]\s+)*(((\b|[bdknpt])?[aeioy][dlmnr](?=[bcćdfghjklłmńnpqrsśtvwzżź]+))|(([bcćdfghjklłmńnpqrsśtvwzżź])*((au|eu|ia|ią|ie|ię|ii|io|ió|iu|ua)|([aąeęioóuy]))((([cćdfhjklłmńnpqrśtvwzżź])(?=[cdjkłmnrst]))?)))(([bcćdfghjklłmńnpqrsśtvwzżź]{0,4})(?=([\s.\-?_,:;"!]+|$)))?
